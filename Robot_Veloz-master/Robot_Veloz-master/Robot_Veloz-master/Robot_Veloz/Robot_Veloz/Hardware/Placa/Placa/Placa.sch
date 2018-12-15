@@ -154,7 +154,7 @@ U 1 1 5BF9A57C
 P 2150 1600
 F 0 "SW1" H 2150 1885 50  0000 C CNN
 F 1 "SW_Push" H 2150 1794 50  0000 C CNN
-F 2 "" H 2150 1800 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 2150 1800 50  0001 C CNN
 F 3 "" H 2150 1800 50  0001 C CNN
 	1    2150 1600
 	0    1    1    0   
@@ -165,7 +165,7 @@ U 1 1 5BF9A8FE
 P 2600 1600
 F 0 "SW2" H 2600 1885 50  0000 C CNN
 F 1 "SW_Push" H 2600 1794 50  0000 C CNN
-F 2 "" H 2600 1800 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_PUSH_6mm" H 2600 1800 50  0001 C CNN
 F 3 "" H 2600 1800 50  0001 C CNN
 	1    2600 1600
 	0    1    1    0   
@@ -312,7 +312,7 @@ U 1 1 5BFA3BBD
 P 800 2950
 F 0 "J3" H 720 2625 50  0000 C CNN
 F 1 "Conn_01x03" H 720 2716 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_B03B-XH-A_1x03_P2.50mm_Vertical" H 800 2950 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 800 2950 50  0001 C CNN
 F 3 "~" H 800 2950 50  0001 C CNN
 	1    800  2950
 	-1   0    0    -1  
@@ -345,7 +345,7 @@ U 1 1 5BFA47B3
 P 1700 2700
 F 0 "J6" H 1620 2375 50  0000 C CNN
 F 1 "Conn_01x02" H 1620 2466 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_B03B-XH-A_1x03_P2.50mm_Vertical" H 1700 2700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1700 2700 50  0001 C CNN
 F 3 "~" H 1700 2700 50  0001 C CNN
 	1    1700 2700
 	-1   0    0    -1  
@@ -356,7 +356,7 @@ U 1 1 5BFA4862
 P 1700 3100
 F 0 "J7" H 1620 2775 50  0000 C CNN
 F 1 "Conn_01x02" H 1620 2866 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_B03B-XH-A_1x03_P2.50mm_Vertical" H 1700 3100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 1700 3100 50  0001 C CNN
 F 3 "~" H 1700 3100 50  0001 C CNN
 	1    1700 3100
 	-1   0    0    -1  
@@ -480,7 +480,7 @@ U 1 1 5BFAA1EB
 P 700 4550
 F 0 "J1" H 620 4225 50  0000 C CNN
 F 1 "Conn_01x03" H 620 4316 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 700 4550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 700 4550 50  0001 C CNN
 F 3 "~" H 700 4550 50  0001 C CNN
 	1    700  4550
 	-1   0    0    -1  
@@ -497,7 +497,7 @@ U 1 1 5BFAF1D4
 P 700 5100
 F 0 "J2" H 620 4775 50  0000 C CNN
 F 1 "Conn_01x03" H 620 4866 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 700 5100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 700 5100 50  0001 C CNN
 F 3 "~" H 700 5100 50  0001 C CNN
 	1    700  5100
 	-1   0    0    -1  
@@ -526,7 +526,7 @@ U 1 1 5BFAFCD0
 P 1550 4550
 F 0 "J4" H 1470 4225 50  0000 C CNN
 F 1 "Conn_01x03" H 1470 4316 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 1550 4550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 1550 4550 50  0001 C CNN
 F 3 "~" H 1550 4550 50  0001 C CNN
 	1    1550 4550
 	-1   0    0    -1  
@@ -543,7 +543,7 @@ U 1 1 5BFB05BB
 P 1550 5100
 F 0 "J5" H 1470 4775 50  0000 C CNN
 F 1 "Conn_01x03" H 1470 4866 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 1550 5100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 1550 5100 50  0001 C CNN
 F 3 "~" H 1550 5100 50  0001 C CNN
 	1    1550 5100
 	-1   0    0    -1  
@@ -720,7 +720,7 @@ U 1 1 5C0409FD
 P 4250 3850
 F 0 "J12" H 4170 3525 50  0000 C CNN
 F 1 "Conn_01x03" H 4170 3616 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 4250 3850 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4250 3850 50  0001 C CNN
 F 3 "~" H 4250 3850 50  0001 C CNN
 	1    4250 3850
 	0    -1   1    0   
@@ -761,7 +761,7 @@ U 1 1 5C047841
 P 4250 2800
 F 0 "J11" H 4170 2475 50  0000 C CNN
 F 1 "Conn_01x03" H 4170 2566 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 4250 2800 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4250 2800 50  0001 C CNN
 F 3 "~" H 4250 2800 50  0001 C CNN
 	1    4250 2800
 	0    -1   1    0   
@@ -804,7 +804,7 @@ U 1 1 5C0491AF
 P 4250 1650
 F 0 "J10" H 4170 1325 50  0000 C CNN
 F 1 "Conn_01x03" H 4170 1416 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 4250 1650 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4250 1650 50  0001 C CNN
 F 3 "~" H 4250 1650 50  0001 C CNN
 	1    4250 1650
 	0    -1   1    0   
@@ -962,7 +962,7 @@ U 1 1 5C09470A
 P 6100 2050
 F 0 "U1" H 6100 2928 50  0000 C CNN
 F 1 "PCF8574" H 6100 2837 50  0000 C CNN
-F 2 "" H 6100 2050 50  0001 C CNN
+F 2 "Package_DIP:DIP-16_W7.62mm_LongPads" H 6100 2050 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/PCF8574_PCF8574A.pdf" H 6100 2050 50  0001 C CNN
 	1    6100 2050
 	1    0    0    -1  
@@ -1228,17 +1228,6 @@ F 3 "" H 4900 5250 50  0001 C CNN
 	1    4900 5250
 	-1   0    0    1   
 $EndComp
-$Comp
-L DC-DC_MP2307:DC-DC_BuckModule U2
-U 1 1 5C13D8E2
-P 9750 1500
-F 0 "U2" H 9750 1801 39  0000 C CNN
-F 1 "DC-DC_BuckModule" H 9750 1726 39  0000 C CNN
-F 2 "" H 9750 1500 39  0001 C CNN
-F 3 "" H 9750 1500 39  0001 C CNN
-	1    9750 1500
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	10050 1400 10150 1400
 Wire Wire Line
@@ -1301,7 +1290,7 @@ U 1 1 5C147E76
 P 9300 2350
 F 0 "JP1" H 9300 2535 50  0000 C CNN
 F 1 "Jumper_NO_Small" H 9300 2444 50  0000 C CNN
-F 2 "" H 9300 2350 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm" H 9300 2350 50  0001 C CNN
 F 3 "~" H 9300 2350 50  0001 C CNN
 	1    9300 2350
 	1    0    0    -1  
@@ -1331,7 +1320,7 @@ U 2 1 5C14F416
 P 7750 2450
 F 0 "SW3" H 7750 2735 50  0000 C CNN
 F 1 "SW_DPDT_x2" H 7750 2644 50  0000 C CNN
-F 2 "" H 7750 2450 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_CuK_JS202011CQN_DPDT_Straight" H 7750 2450 50  0001 C CNN
 F 3 "" H 7750 2450 50  0001 C CNN
 	2    7750 2450
 	1    0    0    -1  
@@ -1342,13 +1331,11 @@ U 1 1 5C14F497
 P 7800 1300
 F 0 "SW3" H 7800 1585 50  0000 C CNN
 F 1 "SW_DPDT_x2" H 7800 1494 50  0000 C CNN
-F 2 "" H 7800 1300 50  0001 C CNN
+F 2 "Button_Switch_THT:SW_CuK_JS202011CQN_DPDT_Straight" H 7800 1300 50  0001 C CNN
 F 3 "" H 7800 1300 50  0001 C CNN
 	1    7800 1300
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9450 1400 8000 1400
 NoConn ~ 7950 2350
 Text GLabel 7350 1150 1    50   Input ~ 0
 VBAT
@@ -1382,7 +1369,7 @@ U 1 1 5C198340
 P 7100 4100
 F 0 "J15" H 7180 4092 50  0000 L CNN
 F 1 "Conn_01x08" H 7180 4001 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 7100 4100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 7100 4100 50  0001 C CNN
 F 3 "~" H 7100 4100 50  0001 C CNN
 	1    7100 4100
 	1    0    0    -1  
@@ -1393,7 +1380,7 @@ U 1 1 5C19862D
 P 7800 4100
 F 0 "J16" H 7880 4092 50  0000 L CNN
 F 1 "Conn_01x08" H 7880 4001 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 7800 4100 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 7800 4100 50  0001 C CNN
 F 3 "~" H 7800 4100 50  0001 C CNN
 	1    7800 4100
 	-1   0    0    -1  
@@ -1504,7 +1491,7 @@ U 1 1 5C240B93
 P 6900 5200
 F 0 "J13" H 6980 5192 50  0000 L CNN
 F 1 "Conn_01x02" H 6980 5101 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 6900 5200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6900 5200 50  0001 C CNN
 F 3 "~" H 6900 5200 50  0001 C CNN
 	1    6900 5200
 	1    0    0    -1  
@@ -1515,7 +1502,7 @@ U 1 1 5C240C71
 P 6900 5550
 F 0 "J14" H 6980 5542 50  0000 L CNN
 F 1 "Conn_01x02" H 6980 5451 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" H 6900 5550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6900 5550 50  0001 C CNN
 F 3 "~" H 6900 5550 50  0001 C CNN
 	1    6900 5550
 	1    0    0    -1  
@@ -1598,4 +1585,17 @@ Wire Wire Line
 	6650 5300 6700 5300
 Wire Wire Line
 	6650 5200 6700 5200
+Wire Wire Line
+	9450 1400 8000 1400
+$Comp
+L DC-DC_MP2307:DC-DC_BuckModule U2
+U 1 1 5C1765C0
+P 9750 1500
+F 0 "U2" H 9750 1801 39  0000 C CNN
+F 1 "DC-DC_BuckModule" H 9750 1726 39  0000 C CNN
+F 2 "Placa:DC-DC-MP2307" H 9750 1500 39  0001 C CNN
+F 3 "" H 9750 1500 39  0001 C CNN
+	1    9750 1500
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
